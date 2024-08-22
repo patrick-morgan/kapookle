@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f4e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e6dfd0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg-gradient)"/>
+  <text x="600" y="300" font-family="Georgia, serif" font-size="120" fill="#2c2c2c" text-anchor="middle" font-weight="bold">Kapookle</text>
+  <text x="600" y="400" font-family="Georgia, serif" font-size="60" fill="#2c2c2c" text-anchor="middle" font-style="italic">The Lexicon of Refinement</text>
+  <path d="M100,100 Q600,315 100,530 M1100,100 Q600,315 1100,530" fill="none" stroke="#2c2c2c" stroke-width="4" opacity="0.3"/>
+  <circle cx="600" cy="315" r="250" fill="none" stroke="#2c2c2c" stroke-width="4" opacity="0.3"/>
+</svg>
