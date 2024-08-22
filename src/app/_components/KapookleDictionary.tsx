@@ -75,8 +75,8 @@ const KapookleDictionary = () => {
           lack of grace or wit, often to comedic effect.
           <p className="ml-6 mt-2 text-gray-700">
             Despite his expensive education, he proved himself a complete{" "}
-            <em>kapookle</em> when he mistook the sommelier for the maître
-            d&apos; and proceeded to order pizza.
+            <em>kapookle</em> when he mistook the most seasoned sommelier for
+            the maître d&apos; and proceeded to order pizza.
           </p>
         </li>
       </ol>

@@ -27,7 +27,7 @@ export default async function Home() {
           </div>
           <footer className="mt-12 text-center text-sm text-gray-600">
             <p>
-              &ldquo;Elegance is the only beauty that never fades.&rdquo;
+              &ldquo;Kapookle is the only beauty that never fades.&rdquo;
               &mdash; Audrey Hepburn
             </p>
           </footer>
